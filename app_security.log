@@ -1,0 +1,13 @@
+2025-10-27 20:43:52,748 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 20:43:52,764 - werkzeug - INFO -  * Debugger PIN: 109-864-757
+2025-10-27 20:43:52,836 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-10-27 20:44:37,340 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 20:44:37] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-27 20:44:40,323 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 20:44:40] "POST /chat HTTP/1.1" 200 -
+2025-10-27 20:44:51,076 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 20:44:51] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-27 20:44:53,659 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 20:44:53] "POST /chat HTTP/1.1" 200 -
+2025-10-27 20:46:18,751 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 20:46:24,500 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 20:46:24,511 - werkzeug - INFO -  * Debugger PIN: 109-864-757
+2025-10-27 20:46:24,567 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-10-27 20:52:42,073 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 20:52:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-27 20:52:44,690 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 20:52:44] "POST /chat HTTP/1.1" 200 -
